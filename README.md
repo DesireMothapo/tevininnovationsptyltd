@@ -28,6 +28,13 @@ This project is a professional website designed to showcase the company’s serv
 
 Tevin Innovations Part 2 is the continuation of our project aimed at building [brief description of the project, e.g., a web application, system prototype, or tool]. This phase focuses on enhancing functionality, improving the user interface, and integrating feedback from Part 1.
 
+-Added wireframe, took screenshots as evidence and created an images folder for them.
+-Also pushed origin on Github desktop.
+ 
+ Project Timeline:
+ - Wireframe Design: 19/09/2025 - 22/09/2025 completed.
+ - Testing and Deployment: 23/09/2025 - 25/09/2025 Pending.
+
 wireframe link https://www.figma.com/design/wQe9txxX2VYAnRf3tBNLMJ/Untitled?node-id=0-1&p=f&m=draw
 
 
