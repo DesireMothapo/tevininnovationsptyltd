@@ -35,6 +35,6 @@ Tevin Innovations Part 2 is the continuation of our project aimed at building [b
  - Wireframe Design: 19/09/2025 - 22/09/2025 completed.
  - Testing and Deployment: 23/09/2025 - 25/09/2025 Pending.
 
-wireframe link https://www.figma.com/design/wQe9txxX2VYAnRf3tBNLMJ/Untitled?node-id=0-1&p=f&m=draw
+wireframe link https://www.figma.com/design/wQe9txxX2VYAnRf3tBNLMJ/Untitled?node-id=0-1&p=f&m=draw   Source:Figma
 
 
